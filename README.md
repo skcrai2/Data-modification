@@ -14,14 +14,21 @@ Yearly	Total	Donation
 2. Define	permanent	variable	labels	using	LABEL	statement	for	each	variable.
 
 3. Use	IF-THEN-ELSE	statement	to	define	the	following	new	variable.	For	Year_don:	
+  
   a. define			Ydoncat	=’Low’	if	Year_Don	is	le	50	,
+  
   b. Ydoncat	=	‘Modetate’			if	Year_don	between		51-100,	
+  
   c. and	Ydoncat	=	‘High’ if	Year_don	is	gt	100.
 
 4. Use	SELECT-WHEN-OTHERWISE	statement	to	define	a	new	variable,	AGEGP:
-  a. AGEGP	is	YOUNG	when	age	is	34	or	younger,	
+ 
+  a. AGEGP	is	YOUNG	when	age	is	34	or	younger,
+  
   b. AGEGP	is	MIDDLE	when	age	is	form	35	to	49,	
+  
   c. AGEGP	is	SENIOR	when	age	is	50	or	older.
+  
 [NOTE:	Make	sure	you	define	the	LENGTH	statement	for	Ydoncat	and	Agegp	varibles.	]
 
 5. Use	(DROP	=	)	option	to	drop	variables	Gender		AGE	from	the	output	data	set.
