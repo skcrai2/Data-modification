@@ -5,8 +5,7 @@ For this dataset, we are looking to solve the following tow problems:
 
 Problem #1:
 
-Write	a	program	to	read	the	Funddrive	data	into	the	data	set	Newfund.		Make	sure	you	save	the
-Newfund data	set	in	a	permanent	library	(you	decide	the	library	name	and	location).		In	the	program,
+Write	a	program	to	read	the	Funddrive	data	into	the	data	set	Newfund.	
 
 1. Define	a	new	variable:	Year_Don	as	sum	of	donations	of	four	quarters.	Year_Don	has	variable	label:	
 Yearly	Total	Donation
